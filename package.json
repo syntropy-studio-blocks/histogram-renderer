@@ -1,0 +1,29 @@
+{
+  "name": "histogram-renderer",
+  "version": "1.0.0",
+  "description": "Renders a histogram from an array of numbers",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syntropy-studio-blocks/histogram-renderer.git"
+  },
+  "keywords": [
+    "syntropy-studio-block",
+    "histogram",
+    "renderer",
+    "distribution",
+    "chart"
+  ],
+  "author": "Angus Russell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syntropy-studio-blocks/histogram-renderer/issues"
+  },
+  "homepage": "https://github.com/syntropy-studio-blocks/histogram-renderer#readme",
+  "dependencies": {
+    "chart.js": "^2.8.0"
+  }
+}
